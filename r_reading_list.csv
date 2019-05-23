@@ -1,0 +1,12 @@
+title,author,description,link,tags
+"R for Data Science","Garrett Grolemund, Hadley Wickham","This book will teach you how to do data science with R","https://r4ds.had.co.nz/","tidyverse,ggplot2,dplyr,tidyr,readr"
+"Hands-On Programming with R","Garrett Grolemund","This book will teach you how to program in R, with hands-on examples.","https://rstudio-education.github.io/hopr/","functions,programming,simulations"
+"R Graphics Cookbook","Winston Chang","A practical guide that provides more than 150 recipes to help you generate high-quality graphs quickly","https://r-graphics.org/","ggplot2,data visualization"
+"Modern Dive","Chester Ismay, Albert Y. Kim","Statistical Inference via Data Science","https://moderndive.com/","tidyverse,infer,broom,inference,regression,sampling,hypothesis testing,confidence intervals"
+"An Introduction to Statistical Learning with Applications in R","Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani","This book provides an introduction to statistical learning methods.","http://www-bcf.usc.edu/~gareth/ISL/","machine learning,supervised learning,unsupervised learning"
+"Data Visualization A Practical Introduction","Kieran Healy","An introduction to both the ideas and the methods of data visualization in a sensible, comprehensible, reproducible way.","http://socviz.co/","data visualization,ggplot2"
+"R Markdown: The Definitive Guide","Yihui Xie, J. J. Allaire, Garrett Grolemund","A definitive guide to the RMarkdown ecosystem","https://bookdown.org/yihui/rmarkdown/","rmarkdown,bookdown,blogdown,xaringan"
+"R Packages","Hadley Wickham","Learn how to turn your code into packages that others can easily download and use.","http://r-pkgs.had.co.nz/","vignettes,testing,namespaces,git,github"
+"Happy Git and GitHub for the useR","Jennifer Bryan","Instructions on how to install and integrate Git and GitHub into your daily work with R","https://happygitwithr.com/","git,github,version control"
+"blogdown: Creating Websites with R Markdown","Yihui Xie, Amber Thomas, Alison Presmanes Hill","Instructions on how to create websites using R Markdown and Hugo","https://bookdown.org/yihui/blogdown/","rmarkdown,websites,blogs,hugo,netlify"
+"Advanced R","Hadley Wickham","The book is designed primarily for R users who want to improve their programming skills and understanding of the language.","http://adv-r.had.co.nz/","functional programming,metaprogramming"

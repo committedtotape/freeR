@@ -1,0 +1,50 @@
+/*Use same font throughout app*/
+* {
+  font-family: 'Monaco' !important;
+  background-color: #F4F4F4;
+  color: #555555;
+}
+
+/*Colour hyperlinks*/
+a {
+  color: black;
+}
+
+a:hover {
+  color: #EC7171;
+}
+
+a:active {
+  color: #EC7171;
+}
+
+/*Header*/
+h2 {
+  color: black !important;
+}
+
+/* Search Box*/
+input[type=search]:focus {
+    border-color: #EC7171;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px #EC7171,0 0 8px #EC7171;
+    box-shadow: inset 0 1px 1px #EC7171,0 0 8px #EC7171;
+}
+
+/*Select box*/
+select:focus {
+    border-color: #EC7171;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px #EC7171,0 0 8px #EC7171;
+    box-shadow: inset 0 1px 1px #EC7171,0 0 8px #EC7171;
+}
+
+/*Select options - currently not working*/
+option:hover {
+  background-color: #EC7171 !important
+}
+
+/*Selected table row*/
+table.dataTable tr.selected td, table.dataTable td.selected {
+    background-color: #F1D1D1 !important;
+}

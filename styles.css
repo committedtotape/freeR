@@ -1,13 +1,18 @@
 /*Use same font throughout app*/
+@import url("//fonts.googleapis.com/css?family=Inconsolata");
+
 * {
-  font-family: 'Monaco' !important;
-  background-color: #F4F4F4;
+  font-family: 'Inconsolata' !important;
   color: #555555;
+}
+
+body {
+  background-color: #F4F4F4;
 }
 
 /*Colour hyperlinks*/
 a {
-  color: black;
+  color: #EC7171;
 }
 
 a:hover {
@@ -21,6 +26,8 @@ a:active {
 /*Header*/
 h2 {
   color: black !important;
+  font-weight: 700;
+  line-height: 1.1;
 }
 
 /* Search Box*/
@@ -46,5 +53,10 @@ option:hover {
 
 /*Selected table row*/
 table.dataTable tr.selected td, table.dataTable td.selected {
+    background-color: #F1D1D1 !important;
+}
+
+/*Hover table row*/
+table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
     background-color: #F1D1D1 !important;
 }

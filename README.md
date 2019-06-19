@@ -11,3 +11,7 @@
     +  @[JLS_DataScience](https://twitter.com/JLS_DataScience)
     +  @[Richard_S_Hanna](https://twitter.com/Richard_S_Hanna)
     +  @[BNeelon](https://twitter.com/BNeelon)
+    +  @[jo_hardin47](https://twitter.com/jo_hardin47)
+    +  @[_PaulaMoraga_](https://twitter.com/_PaulaMoraga_)
+    +  @[kaopubear](https://twitter.com/kaopubear)
+    +  @[EmilyRiederer](https://twitter.com/EmilyRiederer)
